@@ -9,6 +9,7 @@ on:
     types: [opened, synchronize, reopened]
     paths-ignore:
       - '**/README.md'
+      - '.github/workflows'
     
 jobs:
   sonarcloud:
