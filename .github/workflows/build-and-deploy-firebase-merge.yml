@@ -8,7 +8,7 @@ name: Build And Deploy Firebase (merge)
       - master
     paths-ignore:
       - '**/README.md'
-      - '.github/workflows'
+      - '.github/workflows/**'
 
 jobs:
   build_and_deploy:

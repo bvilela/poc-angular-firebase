@@ -5,12 +5,12 @@ on:
       - '**'
     paths-ignore:
       - '**/README.md'
-      - '.github/workflows'
+      - '.github/workflows/**'
   pull_request:
     types: [opened, synchronize, reopened]
     paths-ignore:
       - '**/README.md'
-      - '.github/workflows'
+      - '.github/workflows/**'
     
 jobs:
   sonarcloud:
