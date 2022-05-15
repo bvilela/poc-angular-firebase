@@ -2,7 +2,8 @@
 
 ### Quality and CI/CD Status
 [![SonarCloud](https://github.com/bvilela/poc-angular-firebase/actions/workflows/sonarcloud.yml/badge.svg?branch=master)](https://github.com/bvilela/poc-angular-firebase/actions/workflows/sonarcloud.yml)
-[![DeployFirebase](https://github.com/bvilela/poc-angular-firebase/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/bvilela/poc-angular-firebase/actions/workflows/firebase-hosting-merge.yml)
+[![BuildAndPreviewFirebase](https://github.com/bvilela/poc-angular-firebase/actions/workflows/build-and-preview-firebase-pull-request.yml/badge.svg)](https://github.com/bvilela/poc-angular-firebase/actions/workflows/build-and-preview-firebase-pull-request.yml)
+[![BuildAndDeployFirebase](https://github.com/bvilela/poc-angular-firebase/actions/workflows/build-and-deploy-firebase-merge.yml/badge.svg)](https://github.com/bvilela/poc-angular-firebase/actions/workflows/build-and-deploy-firebase-merge.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bvilela_poc-angular-firebase&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bvilela_poc-angular-firebase)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=bvilela_poc-angular-firebase&metric=coverage)](https://sonarcloud.io/summary/new_code?id=bvilela_poc-angular-firebase)
 
