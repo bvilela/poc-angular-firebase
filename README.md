@@ -32,7 +32,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * **Build:** `ng build`
 * **Running unit tests:** `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-### Access Project in Firebase hosting
+### Access Project in Firebase Hosting
 * [Option 1](https://poc-angular-firebase.web.app/)
 * [Option 2](https://poc-angular-firebase.firebaseapp.com/)
 
