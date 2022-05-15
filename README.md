@@ -23,14 +23,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Static Code Analysis: [SonarCloud](https://sonarcloud.io/)
 
 ## GitHub Action
-<!-- * Build and Test Java with Maven (branch master) -->
 * Analyze SonarCloud
-<!-- * Publish on GitHub Packages (tag/release) -->
+* Deploy in Firebase Hosting (master)
 
 ### Main Commands
 * **Generate Project:** `ng new poc-angular-firebase --style=scss`
 * **Development server:** Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
 * **Build:** `ng build`
 * **Running unit tests:** `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+### Access Project in Firebase Hosting
+* [Option 1](https://poc-angular-firebase.web.app/)
+* [Option 2](https://poc-angular-firebase.firebaseapp.com/)
 
 [⬆ Voltar ao topo](#poc-angular-firebase)<br>
