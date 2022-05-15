@@ -3,8 +3,14 @@ on:
   push:
     branches:
       - '**'
+    paths-ignore:
+      - '**/README.md'
+      - '.github/workflows/**'
   pull_request:
     types: [opened, synchronize, reopened]
+    paths-ignore:
+      - '**/README.md'
+      - '.github/workflows/**'
     
 jobs:
   sonarcloud:

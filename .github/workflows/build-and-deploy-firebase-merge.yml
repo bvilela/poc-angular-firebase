@@ -6,6 +6,10 @@ name: Build And Deploy Firebase (merge)
   push:
     branches:
       - master
+    paths-ignore:
+      - '**/README.md'
+      - '.github/workflows/**'
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
